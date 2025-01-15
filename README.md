@@ -5,6 +5,7 @@
 Please follow the documentation at [vuejs.org](https://vuejs.org/)!
 
 ## Sponsors
+## By Mudassir Alam
 
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/core/blob/main/BACKERS.md). If you'd like to join them, please consider [ sponsoring Vue's development](https://vuejs.org/sponsor/).
 
